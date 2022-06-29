@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dung-Vu
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in App
+- 🌱 I’m currently learning SGU 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +84 786 915 286
 
